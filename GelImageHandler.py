@@ -255,9 +255,6 @@ def detectLadders(image):
             group_start = group_end + 1
             #group_start = group_end = 0
 
-
-    print(groups)
-
     new_list = []
 
     for group in groups:
