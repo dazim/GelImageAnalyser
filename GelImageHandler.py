@@ -269,8 +269,6 @@ def detectLadders(image):
 
     plt.plot(tmp)
 
-    print(lanes)
-
     #plt.plot(band)
 
     plt.show()
