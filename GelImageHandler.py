@@ -264,9 +264,6 @@ def detectLadders(image):
             new_list.append(group)
 
 
-    print(new_list)
-
-
     plt.plot(tmp)
 
     #plt.plot(band)
